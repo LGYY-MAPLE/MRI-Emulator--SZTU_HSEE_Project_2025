@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![PyQt5](https://img.shields.io/badge/GUI-PyQt5-green)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
-![License](https://img.shields.io/badge/License-MIT-orange)
 
 这是一个基于 Python 和 PyQt5 开发的 **磁共振成像 (MRI) 虚拟仿真系统**。
 
